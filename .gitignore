@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 michaud.Rproj
+surveys_sample.csv
+complete_surveys.csv
+raw_surveys.csv
